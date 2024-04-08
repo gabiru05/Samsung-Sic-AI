@@ -1,0 +1,10 @@
+{
+	"nombre": "Gabiru",
+	"edad": 20,
+	"ciudad": "Panam\u00e1",
+	"trabajo": "Student",
+	"contacto": {
+		"email": "gabriel.ruiz.student@gmail.com",
+		"telefono": "1234-5678"
+	}
+}
